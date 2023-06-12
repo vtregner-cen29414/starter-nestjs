@@ -1,0 +1,23 @@
+{
+  "firstname": "Jan",
+  "lastname": "Novák",
+  "customerId": "ABC123",
+  "salutation": "Jane Nováku",
+  "instituteId": 1,
+  "marketingInfoAcceptance": "ACCEPTED",
+  "gender": "MALE",
+  "lastlogin": "2022-11-07T13:18:10Z",
+  "cz-clientServiceSegment": "STANDARD",
+  "cz-birthNumber": "8805124568",
+  "dateOfBirth": "2008-05-27",
+  "branch": {
+    "id": "547"
+  },
+  "flags": [
+    "georgeIdMigrationRequested",
+    "georgeIdMigrationMandatory",
+    "dataConsentActionRequired",
+    "multipleProfiles",
+    "multipleProfilesDisplayDisabled"
+  ]
+}

@@ -1,0 +1,2015 @@
+{
+  "codebook": "CB_Country",
+  "system": "CPS",
+  "language": "cs-CZ",
+  "values": [
+    {
+      "entryOrder": 1,
+      "key": "CZ",
+      "systemKey": "CZ",
+      "label": "Česká republika",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 2,
+      "key": "SK",
+      "systemKey": "SK",
+      "label": "Slovensko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 3,
+      "key": "DE",
+      "systemKey": "DE",
+      "label": "Německo",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 4,
+      "key": "AT",
+      "systemKey": "AT",
+      "label": "Rakousko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 5,
+      "key": "PL",
+      "systemKey": "PL",
+      "label": "Polsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 7,
+      "key": "HR",
+      "systemKey": "HR",
+      "label": "Chorvatsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 8,
+      "key": "HU",
+      "systemKey": "HU",
+      "label": "Maďarsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 9,
+      "key": "GR",
+      "systemKey": "GR",
+      "label": "Řecko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 10,
+      "key": "ES",
+      "systemKey": "ES",
+      "label": "Španělsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 11,
+      "key": "FR",
+      "systemKey": "FR",
+      "label": "Francie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 12,
+      "key": "IT",
+      "systemKey": "IT",
+      "label": "Itálie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 13,
+      "key": "CH",
+      "systemKey": "CH",
+      "label": "Švýcarsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 14,
+      "key": "GB",
+      "systemKey": "GB",
+      "label": "Velká Británie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 15,
+      "key": "BG",
+      "systemKey": "BG",
+      "label": "Bulharsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 16,
+      "key": "RO",
+      "systemKey": "RO",
+      "label": "Rumunsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 17,
+      "key": "DK",
+      "systemKey": "DK",
+      "label": "Dánsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 18,
+      "key": "FI",
+      "systemKey": "FI",
+      "label": "Finsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 19,
+      "key": "NO",
+      "systemKey": "NO",
+      "label": "Norsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 20,
+      "key": "IE",
+      "systemKey": "IE",
+      "label": "Irsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 21,
+      "key": "BE",
+      "systemKey": "BE",
+      "label": "Belgie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 22,
+      "key": "NL",
+      "systemKey": "NL",
+      "label": "Nizozemsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 23,
+      "key": "PT",
+      "systemKey": "PT",
+      "label": "Portugalsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 24,
+      "key": "AF",
+      "systemKey": "AF",
+      "label": "Afghánistán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 25,
+      "key": "AL",
+      "systemKey": "AL",
+      "label": "Albánie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 26,
+      "key": "DZ",
+      "systemKey": "DZ",
+      "label": "Alžírsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 27,
+      "key": "AD",
+      "systemKey": "AD",
+      "label": "Andorra",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 28,
+      "key": "AO",
+      "systemKey": "AO",
+      "label": "Angola",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 29,
+      "key": "AI",
+      "systemKey": "AI",
+      "label": "Anguilla",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 30,
+      "key": "AQ",
+      "systemKey": "AQ",
+      "label": "Antarktida",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 31,
+      "key": "AG",
+      "systemKey": "AG",
+      "label": "Antigua a Barbuda",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 32,
+      "key": "AR",
+      "systemKey": "AR",
+      "label": "Argentina",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 33,
+      "key": "AM",
+      "systemKey": "AM",
+      "label": "Arménie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 34,
+      "key": "AW",
+      "systemKey": "AW",
+      "label": "Aruba",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 35,
+      "key": "AU",
+      "systemKey": "AU",
+      "label": "Austrálie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 36,
+      "key": "AZ",
+      "systemKey": "AZ",
+      "label": "Ázerbájdžán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 37,
+      "key": "BS",
+      "systemKey": "BS",
+      "label": "Bahamy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 38,
+      "key": "BH",
+      "systemKey": "BH",
+      "label": "Bahrajn",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 39,
+      "key": "BD",
+      "systemKey": "BD",
+      "label": "Bangladéš",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 40,
+      "key": "BB",
+      "systemKey": "BB",
+      "label": "Barbados",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 41,
+      "key": "MM",
+      "systemKey": "MM",
+      "label": "Myanmar",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 42,
+      "key": "BZ",
+      "systemKey": "BZ",
+      "label": "Belize",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 43,
+      "key": "BY",
+      "systemKey": "BY",
+      "label": "Bělorusko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 44,
+      "key": "BJ",
+      "systemKey": "BJ",
+      "label": "Benin",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 45,
+      "key": "BM",
+      "systemKey": "BM",
+      "label": "Bermudy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 46,
+      "key": "BT",
+      "systemKey": "BT",
+      "label": "Bhútán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 47,
+      "key": "BO",
+      "systemKey": "BO",
+      "label": "Bolívie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 48,
+      "key": "BA",
+      "systemKey": "BA",
+      "label": "Bosna a Hercegovina",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 49,
+      "key": "BW",
+      "systemKey": "BW",
+      "label": "Botswana",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 50,
+      "key": "BV",
+      "systemKey": "BV",
+      "label": "Bouvetův ostrov",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 51,
+      "key": "BR",
+      "systemKey": "BR",
+      "label": "Brazílie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 52,
+      "key": "IO",
+      "systemKey": "IO",
+      "label": "Britské indickooceánské území",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 53,
+      "key": "VG",
+      "systemKey": "VG",
+      "label": "Britské Panenské ostrovy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 54,
+      "key": "BN",
+      "systemKey": "BN",
+      "label": "Brunej",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 55,
+      "key": "BF",
+      "systemKey": "BF",
+      "label": "Burkina Faso",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 56,
+      "key": "BI",
+      "systemKey": "BI",
+      "label": "Burundi",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 57,
+      "key": "CK",
+      "systemKey": "CK",
+      "label": "Cookovy ostrovy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 58,
+      "key": "CR",
+      "systemKey": "CR",
+      "label": "Kostarika",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 59,
+      "key": "TD",
+      "systemKey": "TD",
+      "label": "Čad",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 60,
+      "key": "ME",
+      "systemKey": "ME",
+      "label": "Černá Hora",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 61,
+      "key": "CN",
+      "systemKey": "CN",
+      "label": "Čína",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 62,
+      "key": "ST",
+      "systemKey": "ST",
+      "label": "Svatý Tomáš a Princův ostrov",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 63,
+      "key": "DM",
+      "systemKey": "DM",
+      "label": "Dominika",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 64,
+      "key": "DO",
+      "systemKey": "DO",
+      "label": "Dominikánská republika",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 65,
+      "key": "DJ",
+      "systemKey": "DJ",
+      "label": "Džibutsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 66,
+      "key": "EG",
+      "systemKey": "EG",
+      "label": "Egypt",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 67,
+      "key": "EC",
+      "systemKey": "EC",
+      "label": "Ekvádor",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 68,
+      "key": "ER",
+      "systemKey": "ER",
+      "label": "Eritrea",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 69,
+      "key": "EE",
+      "systemKey": "EE",
+      "label": "Estonsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 70,
+      "key": "ET",
+      "systemKey": "ET",
+      "label": "Etiopie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 71,
+      "key": "FO",
+      "systemKey": "FO",
+      "label": "Faerské ostrovy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 72,
+      "key": "FK",
+      "systemKey": "FK",
+      "label": "Falklandy (Malvíny)",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 73,
+      "key": "KN",
+      "systemKey": "KN",
+      "label": "Svatý Kryštof a Nevis",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 74,
+      "key": "PH",
+      "systemKey": "PH",
+      "label": "Filipíny",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 75,
+      "key": "GF",
+      "systemKey": "GF",
+      "label": "Francouzská Guyana",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 76,
+      "key": "TF",
+      "systemKey": "TF",
+      "label": "Francouzská jižní a antarktická území",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 77,
+      "key": "GA",
+      "systemKey": "GA",
+      "label": "Gabon",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 78,
+      "key": "GM",
+      "systemKey": "GM",
+      "label": "Gambie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 79,
+      "key": "GH",
+      "systemKey": "GH",
+      "label": "Ghana",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 80,
+      "key": "GI",
+      "systemKey": "GI",
+      "label": "Gibraltar",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 81,
+      "key": "GD",
+      "systemKey": "GD",
+      "label": "Grenada",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 82,
+      "key": "GL",
+      "systemKey": "GL",
+      "label": "Grónsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 83,
+      "key": "GE",
+      "systemKey": "GE",
+      "label": "Gruzie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 84,
+      "key": "GP",
+      "systemKey": "GP",
+      "label": "Guadeloupe",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 85,
+      "key": "GU",
+      "systemKey": "GU",
+      "label": "Guam",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 86,
+      "key": "GT",
+      "systemKey": "GT",
+      "label": "Guatemala",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 87,
+      "key": "GG",
+      "systemKey": "GG",
+      "label": "Guernsey",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 88,
+      "key": "GN",
+      "systemKey": "GN",
+      "label": "Guinea",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 89,
+      "key": "GQ",
+      "systemKey": "GQ",
+      "label": "Rovníková Guinea",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 90,
+      "key": "GY",
+      "systemKey": "GY",
+      "label": "Guyana",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 91,
+      "key": "HT",
+      "systemKey": "HT",
+      "label": "Haiti",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 93,
+      "key": "HN",
+      "systemKey": "HN",
+      "label": "Honduras",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 94,
+      "key": "HK",
+      "systemKey": "HK",
+      "label": "Hongkong",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 95,
+      "key": "CL",
+      "systemKey": "CL",
+      "label": "Chile",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 96,
+      "key": "IN",
+      "systemKey": "IN",
+      "label": "Indie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 97,
+      "key": "ID",
+      "systemKey": "ID",
+      "label": "Indonésie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 98,
+      "key": "IQ",
+      "systemKey": "IQ",
+      "label": "Irák",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 99,
+      "key": "IR",
+      "systemKey": "IR",
+      "label": "Írán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 100,
+      "key": "IS",
+      "systemKey": "IS",
+      "label": "Island",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 101,
+      "key": "IM",
+      "systemKey": "IM",
+      "label": "Man",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 102,
+      "key": "IL",
+      "systemKey": "IL",
+      "label": "Izrael",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 103,
+      "key": "JM",
+      "systemKey": "JM",
+      "label": "Jamajka",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 104,
+      "key": "JP",
+      "systemKey": "JP",
+      "label": "Japonsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 105,
+      "key": "YE",
+      "systemKey": "YE",
+      "label": "Jemen",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 106,
+      "key": "JE",
+      "systemKey": "JE",
+      "label": "Jersey",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 107,
+      "key": "ZA",
+      "systemKey": "ZA",
+      "label": "Jižní Afrika",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 108,
+      "key": "GS",
+      "systemKey": "GS",
+      "label": "Jižní Georgie a Jižní Sandwichovy ostrovy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 109,
+      "key": "JO",
+      "systemKey": "JO",
+      "label": "Jordánsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 110,
+      "key": "KY",
+      "systemKey": "KY",
+      "label": "Kajmanské ostrovy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 111,
+      "key": "KH",
+      "systemKey": "KH",
+      "label": "Kambodža",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 112,
+      "key": "CM",
+      "systemKey": "CM",
+      "label": "Kamerun",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 113,
+      "key": "CA",
+      "systemKey": "CA",
+      "label": "Kanada",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 114,
+      "key": "CV",
+      "systemKey": "CV",
+      "label": "Kapverdy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 115,
+      "key": "QA",
+      "systemKey": "QA",
+      "label": "Katar",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 116,
+      "key": "KZ",
+      "systemKey": "KZ",
+      "label": "Kazachstán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 117,
+      "key": "KE",
+      "systemKey": "KE",
+      "label": "Keňa",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 118,
+      "key": "KG",
+      "systemKey": "KG",
+      "label": "Kyrgyzstán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 119,
+      "key": "KI",
+      "systemKey": "KI",
+      "label": "Kiribati",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 120,
+      "key": "CO",
+      "systemKey": "CO",
+      "label": "Kolumbie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 121,
+      "key": "KM",
+      "systemKey": "KM",
+      "label": "Komory",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 122,
+      "key": "CD",
+      "systemKey": "CD",
+      "label": "Konžská demokratická republika",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 123,
+      "key": "CG",
+      "systemKey": "CG",
+      "label": "Konžská republika",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 124,
+      "key": "KP",
+      "systemKey": "KP",
+      "label": "Korejská lidově demokratická republika",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 125,
+      "key": "KR",
+      "systemKey": "KR",
+      "label": "Korejská republika",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 126,
+      "key": "CU",
+      "systemKey": "CU",
+      "label": "Kuba",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 127,
+      "key": "KW",
+      "systemKey": "KW",
+      "label": "Kuvajt",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 128,
+      "key": "CY",
+      "systemKey": "CY",
+      "label": "Kypr",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 129,
+      "key": "LA",
+      "systemKey": "LA",
+      "label": "Laos",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 130,
+      "key": "LS",
+      "systemKey": "LS",
+      "label": "Lesotho",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 131,
+      "key": "LB",
+      "systemKey": "LB",
+      "label": "Libanon",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 132,
+      "key": "LR",
+      "systemKey": "LR",
+      "label": "Libérie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 133,
+      "key": "LI",
+      "systemKey": "LI",
+      "label": "Lichtenštejnsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 134,
+      "key": "LT",
+      "systemKey": "LT",
+      "label": "Litva",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 135,
+      "key": "LV",
+      "systemKey": "LV",
+      "label": "Lotyšsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 136,
+      "key": "LU",
+      "systemKey": "LU",
+      "label": "Lucembursko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 137,
+      "key": "LY",
+      "systemKey": "LY",
+      "label": "Libye",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 138,
+      "key": "MG",
+      "systemKey": "MG",
+      "label": "Madagaskar",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 139,
+      "key": "MK",
+      "systemKey": "MK",
+      "label": "Severní Makedonie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 140,
+      "key": "MY",
+      "systemKey": "MY",
+      "label": "Malajsie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 141,
+      "key": "MW",
+      "systemKey": "MW",
+      "label": "Malawi",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 142,
+      "key": "MV",
+      "systemKey": "MV",
+      "label": "Maledivy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 143,
+      "key": "ML",
+      "systemKey": "ML",
+      "label": "Mali",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 144,
+      "key": "MT",
+      "systemKey": "MT",
+      "label": "Malta",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 145,
+      "key": "MA",
+      "systemKey": "MA",
+      "label": "Maroko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 146,
+      "key": "MQ",
+      "systemKey": "MQ",
+      "label": "Martinik",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 147,
+      "key": "MU",
+      "systemKey": "MU",
+      "label": "Mauricius",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 148,
+      "key": "MR",
+      "systemKey": "MR",
+      "label": "Mauritánie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 149,
+      "key": "YT",
+      "systemKey": "YT",
+      "label": "Mayotte",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 150,
+      "key": "UM",
+      "systemKey": "UM",
+      "label": "Menší odlehlé ostrovy USA",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 151,
+      "key": "MX",
+      "systemKey": "MX",
+      "label": "Mexiko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 152,
+      "key": "FM",
+      "systemKey": "FM",
+      "label": "Mikronésie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 153,
+      "key": "MD",
+      "systemKey": "MD",
+      "label": "Moldavsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 154,
+      "key": "MC",
+      "systemKey": "MC",
+      "label": "Monako",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 155,
+      "key": "MN",
+      "systemKey": "MN",
+      "label": "Mongolsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 156,
+      "key": "MS",
+      "systemKey": "MS",
+      "label": "Montserrat",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 157,
+      "key": "MZ",
+      "systemKey": "MZ",
+      "label": "Mosambik",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 158,
+      "key": "NA",
+      "systemKey": "NA",
+      "label": "Namibie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 159,
+      "key": "NR",
+      "systemKey": "NR",
+      "label": "Nauru",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 160,
+      "key": "NP",
+      "systemKey": "NP",
+      "label": "Nepál",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 161,
+      "key": "NG",
+      "systemKey": "NG",
+      "label": "Nigérie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 162,
+      "key": "NE",
+      "systemKey": "NE",
+      "label": "Niger",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 163,
+      "key": "NI",
+      "systemKey": "NI",
+      "label": "Nikaragua",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 164,
+      "key": "NF",
+      "systemKey": "NF",
+      "label": "Norfolk",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 165,
+      "key": "NC",
+      "systemKey": "NC",
+      "label": "Nová Kaledonie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 166,
+      "key": "NZ",
+      "systemKey": "NZ",
+      "label": "Nový Zéland",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 167,
+      "key": "OM",
+      "systemKey": "OM",
+      "label": "Omán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 168,
+      "key": "FJ",
+      "systemKey": "FJ",
+      "label": "Fidži",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 169,
+      "key": "TC",
+      "systemKey": "TC",
+      "label": "Turks a Caicos",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 170,
+      "key": "PK",
+      "systemKey": "PK",
+      "label": "Pákistán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 171,
+      "key": "PW",
+      "systemKey": "PW",
+      "label": "Palau",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 172,
+      "key": "PS",
+      "systemKey": "PS",
+      "label": "Palestina",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 173,
+      "key": "PA",
+      "systemKey": "PA",
+      "label": "Panama",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 175,
+      "key": "VI",
+      "systemKey": "VI",
+      "label": "Americké Panenské ostrovy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 176,
+      "key": "PG",
+      "systemKey": "PG",
+      "label": "Papua Nová Guinea",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 177,
+      "key": "PY",
+      "systemKey": "PY",
+      "label": "Paraguay",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 178,
+      "key": "PE",
+      "systemKey": "PE",
+      "label": "Peru",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 179,
+      "key": "PN",
+      "systemKey": "PN",
+      "label": "Pitcairn",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 180,
+      "key": "PR",
+      "systemKey": "PR",
+      "label": "Portoriko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 181,
+      "key": "GW",
+      "systemKey": "GW",
+      "label": "Guinea-Bissau",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 182,
+      "key": "MH",
+      "systemKey": "MH",
+      "label": "Marshallovy ostrovy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 183,
+      "key": "CI",
+      "systemKey": "CI",
+      "label": "Pobřeží slonoviny",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 184,
+      "key": "RS",
+      "systemKey": "RS",
+      "label": "Srbsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 185,
+      "key": "TT",
+      "systemKey": "TT",
+      "label": "Trinidad a Tobago",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 186,
+      "key": "RU",
+      "systemKey": "RU",
+      "label": "Rusko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 187,
+      "key": "RW",
+      "systemKey": "RW",
+      "label": "Rwanda",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 188,
+      "key": "PM",
+      "systemKey": "PM",
+      "label": "Saint Pierre a Miquelon",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 189,
+      "key": "SV",
+      "systemKey": "SV",
+      "label": "Salvador",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 190,
+      "key": "NU",
+      "systemKey": "NU",
+      "label": "Niue",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 191,
+      "key": "SM",
+      "systemKey": "SM",
+      "label": "San Marino",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 192,
+      "key": "SA",
+      "systemKey": "SA",
+      "label": "Saúdská Arábie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 193,
+      "key": "SN",
+      "systemKey": "SN",
+      "label": "Senegal",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 194,
+      "key": "SC",
+      "systemKey": "SC",
+      "label": "Seychely",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 195,
+      "key": "SL",
+      "systemKey": "SL",
+      "label": "Sierra Leone",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 196,
+      "key": "SG",
+      "systemKey": "SG",
+      "label": "Singapur",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 197,
+      "key": "TZ",
+      "systemKey": "TZ",
+      "label": "Tanzanie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 198,
+      "key": "SI",
+      "systemKey": "SI",
+      "label": "Slovinsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 199,
+      "key": "SO",
+      "systemKey": "SO",
+      "label": "Somálsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 200,
+      "key": "AE",
+      "systemKey": "AE",
+      "label": "Spojené arabské emiráty",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 201,
+      "key": "US",
+      "systemKey": "US",
+      "label": "Spojené státy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 202,
+      "key": "MP",
+      "systemKey": "MP",
+      "label": "Severní Mariany",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 203,
+      "key": "LK",
+      "systemKey": "LK",
+      "label": "Šrí Lanka",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 204,
+      "key": "CF",
+      "systemKey": "CF",
+      "label": "Středoafrická republika",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 205,
+      "key": "SD",
+      "systemKey": "SD",
+      "label": "Súdán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 206,
+      "key": "SR",
+      "systemKey": "SR",
+      "label": "Surinam",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 207,
+      "key": "SJ",
+      "systemKey": "SJ",
+      "label": "Špicberky a Jan Mayen",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 208,
+      "key": "SH",
+      "systemKey": "SH",
+      "label": "Svatá Helena",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 209,
+      "key": "LC",
+      "systemKey": "LC",
+      "label": "Svatá Lucie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 210,
+      "key": "VC",
+      "systemKey": "VC",
+      "label": "Svatý Vincenc a Grenadiny",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 211,
+      "key": "SZ",
+      "systemKey": "SZ",
+      "label": "Svazijsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 212,
+      "key": "SY",
+      "systemKey": "SY",
+      "label": "Sýrie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 213,
+      "key": "SB",
+      "systemKey": "SB",
+      "label": "Šalomounovy ostrovy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 214,
+      "key": "SE",
+      "systemKey": "SE",
+      "label": "Švédsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 215,
+      "key": "TJ",
+      "systemKey": "TJ",
+      "label": "Tádžikistán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 216,
+      "key": "TW",
+      "systemKey": "TW",
+      "label": "Tchaj-wan",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 217,
+      "key": "HM",
+      "systemKey": "HM",
+      "label": "Heardův ostrov a MacDonaldovy ostrovy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 218,
+      "key": "AS",
+      "systemKey": "AS",
+      "label": "Americká Samoa",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 219,
+      "key": "CC",
+      "systemKey": "CC",
+      "label": "Kokosové (Keelingovy) ostrovy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 220,
+      "key": "MO",
+      "systemKey": "MO",
+      "label": "Macao",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 221,
+      "key": "CX",
+      "systemKey": "CX",
+      "label": "Vánoční ostrov",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 222,
+      "key": "TH",
+      "systemKey": "TH",
+      "label": "Thajsko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 223,
+      "key": "TL",
+      "systemKey": "TL",
+      "label": "Východní Timor",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 224,
+      "key": "TG",
+      "systemKey": "TG",
+      "label": "Togo",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 225,
+      "key": "TK",
+      "systemKey": "TK",
+      "label": "Tokelau",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 226,
+      "key": "TO",
+      "systemKey": "TO",
+      "label": "Tonga",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 227,
+      "key": "TN",
+      "systemKey": "TN",
+      "label": "Tunisko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 228,
+      "key": "TR",
+      "systemKey": "TR",
+      "label": "Turecko",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 229,
+      "key": "TM",
+      "systemKey": "TM",
+      "label": "Turkmenistán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 230,
+      "key": "TV",
+      "systemKey": "TV",
+      "label": "Tuvalu",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 231,
+      "key": "UG",
+      "systemKey": "UG",
+      "label": "Uganda",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 232,
+      "key": "UA",
+      "systemKey": "UA",
+      "label": "Ukrajina",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 233,
+      "key": "UY",
+      "systemKey": "UY",
+      "label": "Uruguay",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 234,
+      "key": "UZ",
+      "systemKey": "UZ",
+      "label": "Uzbekistán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 235,
+      "key": "VU",
+      "systemKey": "VU",
+      "label": "Republika Vanuatu",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 236,
+      "key": "VA",
+      "systemKey": "VA",
+      "label": "Vatikán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 237,
+      "key": "VE",
+      "systemKey": "VE",
+      "label": "Venezuela",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 238,
+      "key": "VN",
+      "systemKey": "VN",
+      "label": "Vietnam",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 240,
+      "key": "ZM",
+      "systemKey": "ZM",
+      "label": "Zambie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 241,
+      "key": "PF",
+      "systemKey": "PF",
+      "label": "Francouzská Polynésie",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 242,
+      "key": "WF",
+      "systemKey": "WF",
+      "label": "Wallis a Futuna",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 243,
+      "key": "RE",
+      "systemKey": "RE",
+      "label": "Réunion",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 244,
+      "key": "EH",
+      "systemKey": "EH",
+      "label": "Západní Sahara",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 245,
+      "key": "WS",
+      "systemKey": "WS",
+      "label": "Samoa",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 246,
+      "key": "ZW",
+      "systemKey": "ZW",
+      "label": "Zimbabwe",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 250,
+      "key": "AX",
+      "systemKey": "AX",
+      "label": "Alandy",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 251,
+      "key": "BQ",
+      "systemKey": "BQ",
+      "label": "Bonaire, Svatý Eustach a Saba",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 252,
+      "key": "CW",
+      "systemKey": "CW",
+      "label": "Curaçao",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 253,
+      "key": "SS",
+      "systemKey": "SS",
+      "label": "Jižní Súdán",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 254,
+      "key": "MF",
+      "systemKey": "MF",
+      "label": "Svatý Martin (FR)",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 255,
+      "key": "SX",
+      "systemKey": "SX",
+      "label": "Svatý Martin (NL)",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 256,
+      "key": "XK",
+      "systemKey": "XK",
+      "label": "Kosovo",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 257,
+      "key": "BL",
+      "systemKey": "BL",
+      "label": "Svatý Bartoloměj",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    },
+    {
+      "entryOrder": 999,
+      "key": "UNKNOWN_CODEBOOK_VALUE_CDM",
+      "systemKey": "UNKNOWN_CODEBOOK_VALUE",
+      "label": "Neexistující země",
+      "validFrom": "1900-01-01T11:00:00.000Z",
+      "validTo": "2100-01-01T11:00:00.000Z"
+    }
+  ]
+}

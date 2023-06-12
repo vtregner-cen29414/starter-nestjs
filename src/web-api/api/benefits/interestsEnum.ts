@@ -1,0 +1,15 @@
+export enum InterestsEnum {
+  Cestování = 'Cestování',
+  Kultura = 'Kultura',
+  Gastronomie = 'Gastronomie',
+  Hudba = 'Hudba',
+  Sport = 'Sport',
+  Rodina = 'Rodina',
+  Design = 'Design',
+  Degustace = 'Degustace',
+  Auto_Moto = 'Auto/Moto',
+  Zahrada = 'Zahrada',
+  Investice = 'Investice',
+  Móda = 'Móda',
+  Ostatní = 'Ostatní',
+}

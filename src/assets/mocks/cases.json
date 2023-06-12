@@ -1,0 +1,75 @@
+{
+  "cases": [
+    {
+      "id": "123",
+      "startDate": "2022-09-12",
+      "endDate": "2022-09-14",
+      "state": "OPEN",
+      "topic": "Virtuální investiční konference Erste Premier",
+      "type": "EVENT",
+      "entranceCount": 2,
+      "venueType": "PERSONALLY",
+      "clientState": "REGISTERED",
+      "flags": ["ratingEnabled"]
+    },
+    {
+      "id": "456",
+      "startDate": "2022-09-12",
+      "endDate": "2023-09-14",
+      "state": "OPEN",
+      "topic": "Slavnostní otevření Erste Premier Centra",
+      "type": "EVENT",
+      "venueType": "ONLINE",
+      "clientState": "NOMINATED",
+      "flags": []
+    },
+    {
+      "id": "899",
+      "startDate": "2023-09-12",
+      "endDate": "2023-09-14",
+      "state": "OPEN",
+      "topic": "Výstava křečků a křečíků",
+      "type": "EVENT",
+      "venueType": "PERSONALLY",
+      "entranceCount": 1,
+      "clientState": "NOMINATED",
+      "flags": []
+    },
+    {
+      "id": "111",
+      "startDate": "2023-09-12",
+      "endDate": "2023-09-14",
+      "state": "OPEN",
+      "topic": "Výstava morčat a králíků",
+      "type": "EVENT",
+      "venueType": "PERSONALLY",
+      "entranceCount": 5,
+      "clientState": "REGISTERED",
+      "flags": []
+    },
+    {
+      "id": "789",
+      "startDate": "2022-09-12",
+      "endDate": "2022-12-30",
+      "state": "CLOSED",
+      "topic": "Slavnostní otevření Erste Premier Centra",
+      "type": "EVENT",
+      "entranceCount": 2,
+      "venueType": "PERSONALLY",
+      "clientState": "REGISTERED",
+      "flags": ["ratingEnabled"]
+    },
+    {
+      "id": "555",
+      "startDate": "2022-09-12",
+      "endDate": "2022-11-30",
+      "state": "CLOSED",
+      "topic": "Víno ženy zpěv",
+      "type": "EVENT",
+      "entranceCount": 2,
+      "venueType": "PERSONALLY",
+      "clientState": "REGISTERED",
+      "flags": ["ratingEnabled"]
+    }
+  ]
+}

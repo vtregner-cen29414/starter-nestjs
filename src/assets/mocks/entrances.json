@@ -1,0 +1,18 @@
+{
+  "entrances": [
+    {
+      "date": "2022-07-19T00:00:00+02:00",
+      "quantity": 2,
+      "lounge": "LOUNGE1,PRAGUE,CZECHREPUBLIC"
+    },
+    {
+      "date": "2022-08-16T00:00:00+02:00",
+      "quantity": 2,
+      "lounge": "LOUNGE2,WIEN,AUSTRIA"
+    }
+  ],
+  "freeEntrance": {
+    "date": "2022-09-19T00:00:00+02:00",
+    "quantity": 4
+  }
+}
