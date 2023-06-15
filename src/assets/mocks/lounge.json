@@ -1,5 +1,10 @@
 {
   "title": "Jiří Spokojený 16.9.2022",
   "code": "ERSTE/JIRI/SPOKOJENY/522222XXXXXX2222",
-  "plasticType": 524
+  "plasticType": 524,
+  "codeData": {
+    "firstname": "Petr",
+    "lastname": "Novák",
+    "cardNumber": "522222XXXXXX2222"
+  }
 }

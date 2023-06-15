@@ -1,10 +1,9 @@
-import * as fs from 'fs';
-import * as path from 'path';
+import * as fs from "fs";
+import * as path from "path";
 
 export class FileUtils {
   public static fileExist(filePath: string): boolean {
     const file = path.join(__dirname, '..', filePath);
-    console.log(file);
     return fs.existsSync(file);
   }
 
