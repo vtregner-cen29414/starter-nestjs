@@ -11,7 +11,7 @@ export class CodebooksController {
     @Param('codebookId') codebookId,
     @Param('system') system,
     @Res() res,
-    @Headers('accept-language') acceptLanguage: string,
+    @Headers('accept-language') acceptLanguage: string
   ) {
     const lang = this.getFirstLang(acceptLanguage) ?? 'cs';
     return this.getCodebookFile(res, codebookId, lang);
@@ -19,15 +19,9 @@ export class CodebooksController {
 
   private getCodebookFile(res: any, codebookId: string, lang: string) {
     try {
-      return this.appService.readFile(
-        res,
-        `assets/codebooks/${codebookId}_${lang}.json`,
-      );
+      return this.appService.readFile(res, `assets/codebooks/${codebookId}_${lang}.json`);
     } catch (e) {
-      return this.appService.readFile(
-        res,
-        `assets/codebooks/${codebookId}_cs.json`,
-      );
+      return this.appService.readFile(res, `assets/codebooks/${codebookId}_cs.json`);
     }
   }
 

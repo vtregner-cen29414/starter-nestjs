@@ -15,27 +15,24 @@ import { WebApiExceptionFilter } from '../web-api-exception-filter';
 import { AppService } from '../app.service';
 
 import { FileUtils } from '../utils/file-utils';
-import { GolfVerificationResponse } from '../web-api/api/benefits/golf-verification-response';
-import { GetInterestsResponse } from '../web-api/api/benefits/get-interests-response';
-import { InterestsEnum } from '../web-api/api/benefits/interestsEnum';
-import { GetCasesResponse } from '../web-api/api/benefits/get-cases-response';
-import { GolfRegistrationRequest } from '../web-api/api/benefits/golf-registration-request';
-import { GolfRegistrationResponse } from '../web-api/api/benefits/golf-registration-response';
-import { CreateInsuranceRequest } from '../web-api/api/benefits/create-insurance-request';
-import { Evaluation } from '../web-api/api/benefits/evaluation';
-import { AddInvitationToCalendarRequest } from '../web-api/api/benefits/add-invitation-to-calendar-request';
-import { ForcedEventInvitationRequest } from '../web-api/api/benefits/forced-event-invitation-request';
-import { InterestsResponse } from '../web-api/api/benefits/interests-response';
+import {GetInterestsResponse} from "../web-api/api/benefits/get-interests-response";
+import {GetCasesResponse} from "../web-api/api/benefits/get-cases-response";
+import {InterestsEnum} from "../web-api/api/benefits/interestsEnum";
+import {GolfRegistrationRequest} from "../web-api/api/benefits/golf-registration-request";
+import {GolfRegistrationResponse} from "../web-api/api/benefits/golf-registration-response";
+import {InterestsResponse} from "../web-api/api/benefits/interests-response";
+import {GolfVerificationResponse} from "../web-api/api/benefits/golf-verification-response";
+import {CreateInsuranceRequest} from "../web-api/api/benefits/create-insurance-request";
+import {Evaluation} from "../web-api/api/benefits/evaluation";
+import {AddInvitationToCalendarRequest} from "../web-api/api/benefits/add-invitation-to-calendar-request";
+import {ForcedEventInvitationRequest} from "../web-api/api/benefits/forced-event-invitation-request";
 
 @Controller('webapi/api/v1/benefits')
 @UseFilters(new WebApiExceptionFilter())
 export class BenefitsController {
   private golfRegistrations: Map<string, GolfVerificationResponse> = new Map();
 
-  private interests: GetInterestsResponse = {
-    clientInterests: [],
-    interests: Object.values(InterestsEnum),
-  };
+  private interests: GetInterestsResponse = { clientInterests: [], interests: Object.values(InterestsEnum) };
 
   private invitations: GetCasesResponse;
 
@@ -67,14 +64,8 @@ export class BenefitsController {
 
   @HttpCode(200)
   @Post('golf-registration')
-  createGolfRegistration(
-    @Body() request: GolfRegistrationRequest,
-  ): GolfRegistrationResponse {
-    this.golfRegistrations.set(request.memberNumber, {
-      state: 'REGISTERED',
-      id: request.memberNumber,
-      fee: 6,
-    });
+  createGolfRegistration(@Body() request: GolfRegistrationRequest): GolfRegistrationResponse {
+    this.golfRegistrations.set(request.memberNumber, { state: 'REGISTERED', id: request.memberNumber, fee: 6 });
     return { id: request.memberNumber };
   }
 
@@ -94,9 +85,7 @@ export class BenefitsController {
     if (this.invitations) {
       return this.invitations;
     } else {
-      this.invitations = FileUtils.readFileAsObject<GetCasesResponse>(
-        'assets/mocks/cases.json',
-      );
+      this.invitations = FileUtils.readFileAsObject<GetCasesResponse>('assets/mocks/cases.json');
       return this.invitations;
     }
     // throw new Error('xxx')

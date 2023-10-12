@@ -8,9 +8,7 @@ import { CreateCodeResponse } from "../web-api/api/codeverification/create-code-
 export class CodeVerificationController {
   @Post('create')
   @HttpCode(200)
-  createCodeVerification(
-    @Body() request: CreateCodeRequest,
-  ): CreateCodeResponse {
-    return { code: '8619ea19' };
+  createCodeVerification(@Body() request: CreateCodeRequest): CreateCodeResponse {
+    return { code: '8619EA19' };
   }
 }
